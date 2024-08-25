@@ -1,0 +1,46 @@
+*{
+    box-sizing: border-box;
+    margin: 0 auto;
+}
+#khung{
+    width: 960px;
+    border: 1px solid gray;
+    background-color: aqua;
+}
+
+
+ tr,
+td{
+    
+    border-collapse: collapse;
+}
+hr{
+    color: gray;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+table{
+    width: 60%;
+    
+    border-collapse: collapse;
+    
+}
+
+.g{
+    text-align: center;
+}
+.k{
+    width: 20%;
+    
+}
+txtft,
+txtadd,
+txtadd2,
+txtct,
+txtctr,
+
+button{
+    height: 30px;
+    background-color: brown ;
+    border-radius: 15px;
+}
